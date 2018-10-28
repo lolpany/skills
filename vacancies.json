@@ -1,0 +1,1309 @@
+{
+  "alternate_url": "https://hh.ru/search/vacancy?text=java&enable_snippets=true",
+  "pages": 100,
+  "page": 0,
+  "arguments": null,
+  "clusters": null,
+  "per_page": 20,
+  "found": 6032,
+  "items": [
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "27640586",
+      "created_at": "2018-10-28T15:21:24+0300",
+      "has_test": false,
+      "area": {
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2",
+        "id": "2"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=27640586",
+      "alternate_url": "https://hh.ru/vacancy/27640586",
+      "employer": {
+        "name": "Файтексорс Санкт-Петербург",
+        "alternate_url": "https://hh.ru/employer/67612",
+        "id": "67612",
+        "url": "https://api.hh.ru/employers/67612",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/397854.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/216739.jpg",
+          "90": "https://hhcdn.ru/employer-logo/324997.jpeg"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=67612"
+      },
+      "url": "https://api.hh.ru/vacancies/27640586?host=hh.ru",
+      "published_at": "2018-10-28T15:21:24+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Junior / middle java developer",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Отличное знание <highlighttext>Java</highlighttext>. Способность и желание изучать бизнес логику финансовых приложений наравне с изучением новых технологий. Способность и желание общаться...",
+        "responsibility": "Участие в написании программных продуктов в финансовой сфере. Организация процессов автоматического тестирования server-side (не UI). Создание frameworks для поддержки..."
+      },
+      "department": null,
+      "address": {
+        "lng": 30.310119,
+        "description": null,
+        "metro_stations": [
+          {
+            "lng": 30.300833,
+            "line_id": "15",
+            "station_id": "15.214",
+            "station_name": "Чёрная речка",
+            "line_name": "Московско-Петроградская",
+            "lat": 59.985455
+          }
+        ],
+        "id": "1159746",
+        "metro": {
+          "lng": 30.300833,
+          "line_id": "15",
+          "station_id": "15.214",
+          "station_name": "Чёрная речка",
+          "line_name": "Московско-Петроградская",
+          "lat": 59.985455
+        },
+        "building": "41Б",
+        "raw": null,
+        "city": "Санкт-Петербург",
+        "street": "набережная Чёрной речки",
+        "lat": 59.985818
+      },
+      "salary": {
+        "to": 150000,
+        "gross": true,
+        "from": 80000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "27576768",
+      "created_at": "2018-10-28T13:59:02+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=27576768",
+      "alternate_url": "https://hh.ru/vacancy/27576768",
+      "employer": {
+        "name": "DIGINETICA",
+        "alternate_url": "https://hh.ru/employer/1723062",
+        "id": "1723062",
+        "url": "https://api.hh.ru/employers/1723062",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/277679.png",
+          "90": "https://hhcdn.ru/employer-logo/1553246.png",
+          "240": "https://hhcdn.ru/employer-logo/1553247.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1723062"
+      },
+      "url": "https://api.hh.ru/vacancies/27576768?host=hh.ru",
+      "published_at": "2018-10-28T13:59:02+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Java разработчик /Java Developer",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Опыт разработки на <highlighttext>Java</highlighttext> 2+ лет. Уверенное знание ООП/Шаблонов проектирования. Английский устный и письменный. Опыт разработки серверных приложений...",
+        "responsibility": "Разработка продуктового функционала облачного решения по персонализации пользовательского опыта в составе интернациональной команды. Участие в разработке архитектуры и алгоритмики продукта..."
+      },
+      "department": null,
+      "address": null,
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28045531",
+      "created_at": "2018-10-28T10:17:46+0300",
+      "has_test": false,
+      "area": {
+        "name": "Казань",
+        "url": "https://api.hh.ru/areas/88",
+        "id": "88"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28045531",
+      "alternate_url": "https://hh.ru/vacancy/28045531",
+      "employer": {
+        "name": "Provectus",
+        "alternate_url": "https://hh.ru/employer/841622",
+        "id": "841622",
+        "url": "https://api.hh.ru/employers/841622",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/248283.png",
+          "90": "https://hhcdn.ru/employer-logo/1435805.png",
+          "240": "https://hhcdn.ru/employer-logo/1435806.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=841622"
+      },
+      "url": "https://api.hh.ru/vacancies/28045531?host=hh.ru",
+      "published_at": "2018-10-28T10:17:46+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист Java",
+      "relations": [],
+      "contacts": {
+        "name": "Anastasia Lysenok",
+        "email": "alysenok@provectus.com",
+        "phones": []
+      },
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Experience with at least one major framework for developing <highlighttext>Java</highlighttext>-based applications (e.g. Dropwizard, Spring ...). Experience writing well-structured...",
+        "responsibility": "You will be crafting advanced backend platform based on Microservices architecture and “Netflix stack”. The platform disrupts legacy corporate travel..."
+      },
+      "department": null,
+      "address": {
+        "lng": 49.154734,
+        "description": null,
+        "metro_stations": [],
+        "id": "570341",
+        "metro": null,
+        "building": "103Б",
+        "raw": null,
+        "city": "Казань",
+        "street": "проспект Ямашева",
+        "lat": 55.82489
+      },
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "27720888",
+      "created_at": "2018-10-28T10:02:55+0300",
+      "has_test": false,
+      "area": {
+        "name": "ОАЭ",
+        "url": "https://api.hh.ru/areas/208",
+        "id": "208"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=27720888",
+      "alternate_url": "https://hh.ru/vacancy/27720888",
+      "employer": {
+        "name": "Synechron",
+        "alternate_url": "https://hh.ru/employer/3255653",
+        "id": "3255653",
+        "url": "https://api.hh.ru/employers/3255653",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2679150.png",
+          "original": "https://hhcdn.ru/employer-logo-original/559419.png",
+          "90": "https://hhcdn.ru/employer-logo/2679149.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3255653"
+      },
+      "url": "https://api.hh.ru/vacancies/27720888?host=hh.ru",
+      "published_at": "2018-10-28T10:02:55+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Java/Scala Developer",
+      "relations": [],
+      "contacts": {
+        "name": "Khalikov Aziz ",
+        "email": "aziz.khalikov@synechron.com",
+        "phones": [
+          {
+            "country": "971",
+            "city": "50",
+            "number": "4717955",
+            "comment": null
+          },
+          {
+            "country": "971",
+            "city": "4",
+            "number": "4390444",
+            "comment": "ДОБ: 7005"
+          }
+        ]
+      },
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Good experience on Scala &amp; <highlighttext>Java</highlighttext>. Knowledge of <highlighttext>Java</highlighttext> tools and frameworks. Experience in Banking/Capital Markets is a plus. ",
+        "responsibility": "...of the software development lifecycle with a focus on Scala/<highlighttext>Java</highlighttext> development. The ideal candidate will possess good technical skills..."
+      },
+      "department": null,
+      "address": {
+        "lng": 55.15398,
+        "description": null,
+        "metro_stations": [],
+        "id": "1335386",
+        "metro": null,
+        "building": "Dubai Media City",
+        "raw": null,
+        "city": "Дубай",
+        "street": null,
+        "lat": 25.094472
+      },
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28349539",
+      "created_at": "2018-10-27T17:21:50+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28349539",
+      "alternate_url": "https://hh.ru/vacancy/28349539",
+      "employer": {
+        "name": "Extyl-pro",
+        "alternate_url": "https://hh.ru/employer/626837",
+        "id": "626837",
+        "url": "https://api.hh.ru/employers/626837",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2772428.png",
+          "original": "https://hhcdn.ru/employer-logo-original/582793.png",
+          "90": "https://hhcdn.ru/employer-logo/2772427.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=626837"
+      },
+      "url": "https://api.hh.ru/vacancies/28349539?host=hh.ru",
+      "published_at": "2018-10-27T17:21:50+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Middle/Senior Java Developer",
+      "relations": [],
+      "contacts": {
+        "name": "Афонин Максим ",
+        "email": "mafonin@extyl-pro.ru",
+        "phones": [
+          {
+            "country": "7",
+            "city": "495",
+            "number": "995-23-37",
+            "comment": "добавочный 113"
+          }
+        ]
+      },
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Владение технологиями Core <highlighttext>Java</highlighttext>, Spring Framework или <highlighttext>Java</highlighttext> EE, Web services, ORM, SQL, HQL. Знание основ html, js, css. ",
+        "responsibility": "Программировать в составе команды. Стек разработки: <highlighttext>Java</highlighttext> SE (Spring), <highlighttext>Java</highlighttext> EE (WebLogic), Hibernate. Развиваться! Компания выделяет и оплачивает время сотрудников..."
+      },
+      "department": null,
+      "address": {
+        "lng": 37.646608746,
+        "description": null,
+        "metro_stations": [
+          {
+            "lng": 37.638693,
+            "line_id": "2",
+            "station_id": "2.101",
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "lat": 55.729741
+          }
+        ],
+        "id": "113793",
+        "metro": {
+          "lng": 37.638693,
+          "line_id": "2",
+          "station_id": "2.101",
+          "station_name": "Павелецкая",
+          "line_name": "Замоскворецкая",
+          "lat": 55.729741
+        },
+        "building": "2",
+        "raw": "Москва, Павелецкая набережная, 2, БЦ RiverSide",
+        "city": "Москва",
+        "street": "Павелецкая набережная",
+        "lat": 55.7156101609
+      },
+      "salary": {
+        "to": 150000,
+        "gross": false,
+        "from": 80000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "response_letter_required": true,
+      "response_url": null,
+      "id": "28445454",
+      "created_at": "2018-10-27T14:01:17+0300",
+      "has_test": false,
+      "area": {
+        "name": "Пенза",
+        "url": "https://api.hh.ru/areas/71",
+        "id": "71"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28445454",
+      "alternate_url": "https://hh.ru/vacancy/28445454",
+      "employer": {
+        "name": "Texuna Technologies",
+        "alternate_url": "https://hh.ru/employer/60530",
+        "id": "60530",
+        "url": "https://api.hh.ru/employers/60530",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/218423.gif",
+          "90": "https://hhcdn.ru/employer-logo/323274.png",
+          "240": "https://hhcdn.ru/employer-logo/396131.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=60530"
+      },
+      "url": "https://api.hh.ru/vacancies/28445454?host=hh.ru",
+      "published_at": "2018-10-27T14:01:17+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Разработчик Java / Java developer",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Хорошее знание <highlighttext>Java</highlighttext> и SQL. Опыт работы со Spring и Hibernate. Знание английского языка (минимально на уровне чтения документации и...",
+        "responsibility": "Если слова “система контроля версий”, “автоматическая сборка”, “continuous integration”, “unit-тестирование”, &quot;статический анализ кода&quot;. И “рефакторинг” ассоциируются у вас с..."
+      },
+      "department": null,
+      "address": null,
+      "salary": {
+        "to": null,
+        "gross": false,
+        "from": 50000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28093111",
+      "created_at": "2018-10-27T12:09:50+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28093111",
+      "alternate_url": "https://hh.ru/vacancy/28093111",
+      "employer": {
+        "name": "ГЛОСАВ",
+        "alternate_url": "https://hh.ru/employer/644048",
+        "id": "644048",
+        "url": "https://api.hh.ru/employers/644048",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/415371.png",
+          "90": "https://hhcdn.ru/employer-logo/2103558.png",
+          "240": "https://hhcdn.ru/employer-logo/2103559.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=644048"
+      },
+      "url": "https://api.hh.ru/vacancies/28093111?host=hh.ru",
+      "published_at": "2018-10-27T12:09:50+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист java",
+      "relations": [],
+      "contacts": {
+        "name": "Моисеенко Ирина ",
+        "email": "moiseenko@glosav.ru",
+        "phones": [
+          {
+            "country": "7",
+            "city": "926",
+            "number": "2076860",
+            "comment": null
+          }
+        ]
+      },
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Владение ООП. * Знание паттернов проектирования. * <highlighttext>Java</highlighttext> EE (включая основные <highlighttext>Java</highlighttext>-библиотеки). * Опыт работы в Linux. * Опыт использования VCS. * Аналитическое мышление. * ",
+        "responsibility": "Разработка, реализация и оптимизация алгоритмов и интерфейсов, поддержка существующего кода, исправление ошибок, оптимизация производительности."
+      },
+      "department": null,
+      "address": {
+        "lng": 37.645753,
+        "description": null,
+        "metro_stations": [],
+        "id": "688605",
+        "metro": null,
+        "building": "1",
+        "raw": null,
+        "city": "Москва",
+        "street": "Кожевнический проезд",
+        "lat": 55.731348
+      },
+      "salary": {
+        "to": null,
+        "gross": false,
+        "from": 50000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28443910",
+      "created_at": "2018-10-27T13:16:57+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28443910",
+      "alternate_url": "https://hh.ru/vacancy/28443910",
+      "employer": {
+        "name": "We R.Supply",
+        "alternate_url": "https://hh.ru/employer/165614",
+        "id": "165614",
+        "url": "https://api.hh.ru/employers/165614",
+        "logo_urls": null,
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=165614"
+      },
+      "url": "https://api.hh.ru/vacancies/28443910?host=hh.ru",
+      "published_at": "2018-10-27T13:16:57+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист Java",
+      "relations": [],
+      "contacts": {
+        "name": "Гнездилова Яна Анатольевна",
+        "email": "ygnezdilova@wersigns.ru",
+        "phones": [
+          {
+            "country": "7",
+            "city": "967",
+            "number": "2905430",
+            "comment": null
+          }
+        ]
+      },
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Programming Languages: Core <highlighttext>Java</highlighttext> (<highlighttext>Java</highlighttext> SE) → <highlighttext>Java</highlighttext> EE. - Databases: SQL / MySQL. - HTTP Servers, Application Servers / Servlet Containers: Apache Server. - ",
+        "responsibility": "Разработка архитектуры платформенного решения и программных модулей на <highlighttext>Java</highlighttext>. Разработка интеграционных приложений. Составление технической документации по разработанному программному обеспечению. "
+      },
+      "department": null,
+      "address": {
+        "lng": 37.709174,
+        "description": null,
+        "metro_stations": [],
+        "id": "297325",
+        "metro": null,
+        "building": "4с4",
+        "raw": null,
+        "city": "Москва",
+        "street": "Барабанный переулок",
+        "lat": 55.783443
+      },
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28316589",
+      "created_at": "2018-10-26T13:28:32+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28316589",
+      "alternate_url": "https://hh.ru/vacancy/28316589",
+      "employer": {
+        "name": "ИнЭкс",
+        "alternate_url": "https://hh.ru/employer/746080",
+        "id": "746080",
+        "url": "https://api.hh.ru/employers/746080",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/511459.png",
+          "90": "https://hhcdn.ru/employer-logo/2487589.png",
+          "240": "https://hhcdn.ru/employer-logo/2487590.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=746080"
+      },
+      "url": "https://api.hh.ru/vacancies/28316589?host=hh.ru",
+      "published_at": "2018-10-26T13:28:32+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист Java",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Высшее техническое образование. Знание <highlighttext>Java</highlighttext>. Умение разбираться в чужом коде. Желательно знание SQL (Oracle).",
+        "responsibility": "Разработка ПО с использованием языка программирования <highlighttext>Java</highlighttext> и <highlighttext>Java</highlighttext>-технологий, web-разработка. Участие в работах по технической поддержке и развитию..."
+      },
+      "department": null,
+      "address": {
+        "lng": 37.649876,
+        "description": null,
+        "metro_stations": [
+          {
+            "lng": 37.654565,
+            "line_id": "1",
+            "station_id": "1.54",
+            "station_name": "Комсомольская",
+            "line_name": "Сокольническая",
+            "lat": 55.774072
+          },
+          {
+            "lng": 37.6478,
+            "line_id": "1",
+            "station_id": "1.61",
+            "station_name": "Красные ворота",
+            "line_name": "Сокольническая",
+            "lat": 55.768307
+          }
+        ],
+        "id": "525659",
+        "metro": {
+          "lng": 37.654565,
+          "line_id": "1",
+          "station_id": "1.54",
+          "station_name": "Комсомольская",
+          "line_name": "Сокольническая",
+          "lat": 55.774072
+        },
+        "building": "5",
+        "raw": null,
+        "city": "Москва",
+        "street": "Орликов переулок",
+        "lat": 55.772082
+      },
+      "salary": {
+        "to": 150000,
+        "gross": true,
+        "from": 70000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28148631",
+      "created_at": "2018-10-26T09:55:57+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28148631",
+      "alternate_url": "https://hh.ru/vacancy/28148631",
+      "employer": {
+        "name": "Дитрикс",
+        "alternate_url": "https://hh.ru/employer/3585862",
+        "id": "3585862",
+        "url": "https://api.hh.ru/employers/3585862",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/564199.jpg",
+          "90": "https://hhcdn.ru/employer-logo/2698269.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/2698270.jpeg"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3585862"
+      },
+      "url": "https://api.hh.ru/vacancies/28148631?host=hh.ru",
+      "published_at": "2018-10-26T09:55:57+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист Java / Java Developer",
+      "relations": [],
+      "contacts": {
+        "name": "Денисюк Роман",
+        "email": "vacancy@ditrixsoft.ru",
+        "phones": [
+          {
+            "country": "7",
+            "city": "967",
+            "number": "0210953",
+            "comment": null
+          }
+        ]
+      },
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Опыт разработки корпоративных систем. <highlighttext>Java</highlighttext> Core, опыт работы с многопоточностью. Spring Framework. Hibernate. Знание SQL, опыт работы с реляционными СУБД. ",
+        "responsibility": "Проектирование и разработка новых компонентов системы. Рефакторинг существующего исходного кода. Генерация идей по улучшению и развитию продукта."
+      },
+      "department": null,
+      "address": {
+        "lng": 37.6589857755,
+        "description": null,
+        "metro_stations": [
+          {
+            "lng": 37.648333,
+            "line_id": "95",
+            "station_id": "95.531",
+            "station_name": "ЗИЛ",
+            "line_name": "Московское центральное кольцо",
+            "lat": 55.698333
+          },
+          {
+            "lng": 37.657008,
+            "line_id": "2",
+            "station_id": "2.2",
+            "station_name": "Автозаводская",
+            "line_name": "Замоскворецкая",
+            "lat": 55.706634
+          },
+          {
+            "lng": 37.66314,
+            "line_id": "95",
+            "station_id": "95.530",
+            "station_name": "Автозаводская",
+            "line_name": "Московское центральное кольцо",
+            "lat": 55.70631
+          },
+          {
+            "lng": 37.664167,
+            "line_id": "2",
+            "station_id": "2.512",
+            "station_name": "Технопарк",
+            "line_name": "Замоскворецкая",
+            "lat": 55.695
+          }
+        ],
+        "id": "1700631",
+        "metro": {
+          "lng": 37.648333,
+          "line_id": "95",
+          "station_id": "95.531",
+          "station_name": "ЗИЛ",
+          "line_name": "Московское центральное кольцо",
+          "lat": 55.698333
+        },
+        "building": "2/21",
+        "raw": null,
+        "city": "Москва",
+        "street": "улица Лобанова",
+        "lat": 55.7020218949
+      },
+      "salary": {
+        "to": null,
+        "gross": false,
+        "from": 130000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28417681",
+      "created_at": "2018-10-26T11:15:53+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28417681",
+      "alternate_url": "https://hh.ru/vacancy/28417681",
+      "employer": {
+        "name": "Финстарлабс",
+        "alternate_url": "https://hh.ru/employer/951567",
+        "id": "951567",
+        "url": "https://api.hh.ru/employers/951567",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2410710.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/492239.jpg",
+          "90": "https://hhcdn.ru/employer-logo/2410709.jpeg"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=951567"
+      },
+      "url": "https://api.hh.ru/vacancies/28417681?host=hh.ru",
+      "published_at": "2018-10-26T11:15:53+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист Java",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "1. хорошее знание <highlighttext>Java</highlighttext>. 2. опыт использования реляционных СУБД, хорошее знание SQL. 3. опыт разработки многопоточных приложений. 4. ",
+        "responsibility": "1. Разработка веб- и серверных приложений на <highlighttext>Java</highlighttext> с использованием Spring, Hibernate, AngularJS, Web Services, СУБД Oracle и MySQL. 2. "
+      },
+      "department": null,
+      "address": {
+        "lng": 37.439158,
+        "description": null,
+        "metro_stations": [
+          {
+            "lng": 37.4419,
+            "line_id": "1",
+            "station_id": "1.513",
+            "station_name": "Румянцево",
+            "line_name": "Сокольническая",
+            "lat": 55.633
+          }
+        ],
+        "id": "718955",
+        "metro": {
+          "lng": 37.4419,
+          "line_id": "1",
+          "station_id": "1.513",
+          "station_name": "Румянцево",
+          "line_name": "Сокольническая",
+          "lat": 55.633
+        },
+        "building": null,
+        "raw": null,
+        "city": "деревня Румянцево",
+        "street": "Бизнес-парк Румянцево",
+        "lat": 55.634181
+      },
+      "salary": {
+        "to": 150000,
+        "gross": false,
+        "from": 90000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28335330",
+      "created_at": "2018-10-27T11:00:55+0300",
+      "has_test": false,
+      "area": {
+        "name": "Брест",
+        "url": "https://api.hh.ru/areas/1007",
+        "id": "1007"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28335330",
+      "alternate_url": "https://hh.ru/vacancy/28335330",
+      "employer": {
+        "name": "ISsoft Solutions",
+        "alternate_url": "https://hh.ru/employer/774571",
+        "id": "774571",
+        "url": "https://api.hh.ru/employers/774571",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2508877.png",
+          "original": "https://hhcdn.ru/employer-logo-original/516825.png",
+          "90": "https://hhcdn.ru/employer-logo/2508876.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=774571"
+      },
+      "url": "https://api.hh.ru/vacancies/28335330?host=hh.ru",
+      "published_at": "2018-10-27T11:00:55+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Junior Java Developer",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Знание принципов ООП. Знание <highlighttext>Java</highlighttext> 7/8. Общее знания HTML &amp; <highlighttext>Java</highlighttext> Script. Желательно: Опыт написания различных тестов (Unit и другие). ",
+        "responsibility": null
+      },
+      "department": null,
+      "address": null,
+      "salary": null
+    },
+    {
+      "response_letter_required": true,
+      "response_url": null,
+      "id": "28094044",
+      "created_at": "2018-10-27T12:41:58+0300",
+      "has_test": false,
+      "area": {
+        "name": "Пенза",
+        "url": "https://api.hh.ru/areas/71",
+        "id": "71"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28094044",
+      "alternate_url": "https://hh.ru/vacancy/28094044",
+      "employer": {
+        "name": "Texuna Technologies",
+        "alternate_url": "https://hh.ru/employer/60530",
+        "id": "60530",
+        "url": "https://api.hh.ru/employers/60530",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/218423.gif",
+          "90": "https://hhcdn.ru/employer-logo/323274.png",
+          "240": "https://hhcdn.ru/employer-logo/396131.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=60530"
+      },
+      "url": "https://api.hh.ru/vacancies/28094044?host=hh.ru",
+      "published_at": "2018-10-27T12:41:58+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Начинающий Java разработчик / Junior Java developer",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Высшее техническое образование. Базовые знания <highlighttext>Java</highlighttext> (наличие своего кода, например, учебных или некоммерческих проектов - это плюс). Базовые знания SQL. ",
+        "responsibility": null
+      },
+      "department": null,
+      "address": null,
+      "salary": {
+        "to": null,
+        "gross": false,
+        "from": 30000,
+        "currency": "RUR"
+      }
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "26789759",
+      "created_at": "2018-10-26T17:18:44+0300",
+      "has_test": false,
+      "area": {
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002",
+        "id": "1002"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=26789759",
+      "alternate_url": "https://hh.ru/vacancy/26789759",
+      "employer": {
+        "name": "Oxagile",
+        "alternate_url": "https://hh.ru/employer/763432",
+        "id": "763432",
+        "url": "https://api.hh.ru/employers/763432",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/141279.png",
+          "90": "https://hhcdn.ru/employer-logo/999899.png",
+          "240": "https://hhcdn.ru/employer-logo/999900.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=763432"
+      },
+      "url": "https://api.hh.ru/vacancies/26789759?host=hh.ru",
+      "published_at": "2018-10-26T17:18:44+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Java Developer",
+      "relations": [],
+      "contacts": null,
+      "premium": true,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "1+ year(s) in <highlighttext>Java</highlighttext>/J2EE technologies. Good understanding of concurrency. Web services, strong understanding of REST...",
+        "responsibility": "Perform requirements analysis to define possibility and way how to implement them. Discuss requirements with customers. Split assigned tasks into..."
+      },
+      "department": null,
+      "address": null,
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "26946550",
+      "created_at": "2018-10-26T10:59:05+0300",
+      "has_test": false,
+      "area": {
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002",
+        "id": "1002"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=26946550",
+      "alternate_url": "https://hh.ru/vacancy/26946550",
+      "employer": {
+        "name": "Emerline",
+        "alternate_url": "https://hh.ru/employer/2813278",
+        "id": "2813278",
+        "url": "https://api.hh.ru/employers/2813278",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2183428.png",
+          "original": "https://hhcdn.ru/employer-logo-original/435364.png",
+          "90": "https://hhcdn.ru/employer-logo/2183427.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2813278"
+      },
+      "url": "https://api.hh.ru/vacancies/26946550?host=hh.ru",
+      "published_at": "2018-10-26T10:59:05+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Java developer",
+      "relations": [],
+      "contacts": null,
+      "premium": true,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "3+ years of experience in <highlighttext>Java</highlighttext>. Experience using Spring Framework. Experience working with SQL databases. Experience using Hibernate or...",
+        "responsibility": "Design and develop large scale applications using <highlighttext>Java</highlighttext> 8+, Kotlin, Groovy and the latest versions of modern frameworks. "
+      },
+      "department": null,
+      "address": {
+        "lng": 27.687676,
+        "description": null,
+        "metro_stations": [
+          {
+            "lng": 27.68782,
+            "line_id": "62",
+            "station_id": "62.402",
+            "station_name": "Уручье",
+            "line_name": "Московская",
+            "lat": 53.945348
+          }
+        ],
+        "id": "913500",
+        "metro": {
+          "lng": 27.68782,
+          "line_id": "62",
+          "station_id": "62.402",
+          "station_name": "Уручье",
+          "line_name": "Московская",
+          "lat": 53.945348
+        },
+        "building": "метро Уручье",
+        "raw": null,
+        "city": "Минск",
+        "street": "Московская линия",
+        "lat": 53.945565
+      },
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "25961619",
+      "created_at": "2018-10-26T12:29:05+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=25961619",
+      "alternate_url": "https://hh.ru/vacancy/25961619",
+      "employer": {
+        "name": "ГЛОСАВ",
+        "alternate_url": "https://hh.ru/employer/644048",
+        "id": "644048",
+        "url": "https://api.hh.ru/employers/644048",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/415371.png",
+          "90": "https://hhcdn.ru/employer-logo/2103558.png",
+          "240": "https://hhcdn.ru/employer-logo/2103559.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=644048"
+      },
+      "url": "https://api.hh.ru/vacancies/25961619?host=hh.ru",
+      "published_at": "2018-10-26T12:29:05+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист Java",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Уверенное знание <highlighttext>Java</highlighttext> 8. Знание шаблонов проектирования и принципов объектно-ориентированного программирования. Опыт разработки многопоточных приложений с использованием <highlighttext>Java</highlighttext> EE...",
+        "responsibility": "Разработка клиент-серверного ПО компании. Участие в разработке архитектурных решений разрабатываемого программного обеспечения. Участие в проектах по разработке ПО: Глубокая..."
+      },
+      "department": null,
+      "address": {
+        "lng": 37.645753,
+        "description": null,
+        "metro_stations": [],
+        "id": "688605",
+        "metro": null,
+        "building": "1",
+        "raw": null,
+        "city": "Москва",
+        "street": "Кожевнический проезд",
+        "lat": 55.731348
+      },
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28443650",
+      "created_at": "2018-10-27T13:09:43+0300",
+      "has_test": false,
+      "area": {
+        "name": "Киев",
+        "url": "https://api.hh.ru/areas/115",
+        "id": "115"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28443650",
+      "alternate_url": "https://hh.ru/vacancy/28443650",
+      "employer": {
+        "name": "GroupDocs",
+        "alternate_url": "https://hh.ru/employer/983082",
+        "id": "983082",
+        "url": "https://api.hh.ru/employers/983082",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/100484.png",
+          "90": "https://hhcdn.ru/employer-logo/659225.png",
+          "240": "https://hhcdn.ru/employer-logo/659226.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=983082"
+      },
+      "url": "https://api.hh.ru/vacancies/28443650?host=hh.ru",
+      "published_at": "2018-10-27T13:09:43+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Middle / Senior Java Developer",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "2+/3+ years’ experience with <highlighttext>Java</highlighttext>. Strong background in OOP/OOD. Excellent quality of produced code. ",
+        "responsibility": "Work closely with a product manager to understand business requirements and customer needs. Design and code new features for an..."
+      },
+      "department": null,
+      "address": null,
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28475129",
+      "created_at": "2018-10-25T20:26:41+0300",
+      "has_test": false,
+      "area": {
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66",
+        "id": "66"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28475129",
+      "alternate_url": "https://hh.ru/vacancy/28475129",
+      "employer": {
+        "name": "Avalanche Laboratory",
+        "alternate_url": "https://hh.ru/employer/3425556",
+        "id": "3425556",
+        "url": "https://api.hh.ru/employers/3425556",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2563750.png",
+          "original": "https://hhcdn.ru/employer-logo-original/530568.png",
+          "90": "https://hhcdn.ru/employer-logo/2563749.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3425556"
+      },
+      "url": "https://api.hh.ru/vacancies/28475129?host=hh.ru",
+      "published_at": "2018-10-25T20:26:41+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Java Developer",
+      "relations": [],
+      "contacts": null,
+      "premium": true,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Experience: At least 2-3 years of relevant experience in <highlighttext>JAVA</highlighttext> Programming, REST-Web Services, JUnit (Mockito), Code Repository (GIT). ",
+        "responsibility": null
+      },
+      "department": null,
+      "address": null,
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "27017523",
+      "created_at": "2018-10-25T21:20:24+0300",
+      "has_test": false,
+      "area": {
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=27017523",
+      "alternate_url": "https://hh.ru/vacancy/27017523",
+      "employer": {
+        "name": ".masterhost",
+        "alternate_url": "https://hh.ru/employer/4482",
+        "id": "4482",
+        "url": "https://api.hh.ru/employers/4482",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/377977.png",
+          "90": "https://hhcdn.ru/employer-logo/1954166.png",
+          "240": "https://hhcdn.ru/employer-logo/1954167.png"
+        },
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4482"
+      },
+      "url": "https://api.hh.ru/vacancies/27017523?host=hh.ru",
+      "published_at": "2018-10-25T21:20:24+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист Java / Java Developer",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Разработка и поддержка web- и/или enterprise-приложений на <highlighttext>java</highlighttext> - опыт повседневной работы не менее 3 непрерывных лет. ",
+        "responsibility": "Разработка корпоративных приложений на <highlighttext>Java</highlighttext>."
+      },
+      "department": null,
+      "address": {
+        "lng": 37.691773,
+        "description": null,
+        "metro_stations": [
+          {
+            "lng": 37.68544,
+            "line_id": "10",
+            "station_id": "10.52",
+            "station_name": "Кожуховская",
+            "line_name": "Люблинско-Дмитровская",
+            "lat": 55.706156
+          }
+        ],
+        "id": "628315",
+        "metro": {
+          "lng": 37.68544,
+          "line_id": "10",
+          "station_id": "10.52",
+          "station_name": "Кожуховская",
+          "line_name": "Люблинско-Дмитровская",
+          "lat": 55.706156
+        },
+        "building": "18с2",
+        "raw": null,
+        "city": "Москва",
+        "street": "2-й Южнопортовый проезд",
+        "lat": 55.702673
+      },
+      "salary": null
+    },
+    {
+      "response_letter_required": false,
+      "response_url": null,
+      "id": "28249842",
+      "created_at": "2018-10-26T00:34:05+0300",
+      "has_test": false,
+      "area": {
+        "name": "Краснодар",
+        "url": "https://api.hh.ru/areas/53",
+        "id": "53"
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28249842",
+      "alternate_url": "https://hh.ru/vacancy/28249842",
+      "employer": {
+        "name": "Дергачев Иван Михайлович (Дип Пейнтс)",
+        "alternate_url": "https://hh.ru/employer/3444410",
+        "id": "3444410",
+        "url": "https://api.hh.ru/employers/3444410",
+        "logo_urls": null,
+        "trusted": true,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3444410"
+      },
+      "url": "https://api.hh.ru/vacancies/28249842?host=hh.ru",
+      "published_at": "2018-10-26T00:34:05+0300",
+      "sort_point_distance": null,
+      "archived": false,
+      "name": "Программист-разработчик Java / Scala",
+      "relations": [],
+      "contacts": null,
+      "premium": false,
+      "type": {
+        "name": "Открытая",
+        "id": "open"
+      },
+      "snippet": {
+        "requirement": "Хорошее знание <highlighttext>Java</highlighttext>, Scala, понимание архитектуры построения back-end приложений. Опыт работы с SQL и noSQL базами (PostgreSQL, Cassandra). ",
+        "responsibility": null
+      },
+      "department": null,
+      "address": null,
+      "salary": {
+        "to": 1300,
+        "gross": false,
+        "from": 900,
+        "currency": "USD"
+      }
+    }
+  ]
+}

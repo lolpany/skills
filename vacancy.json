@@ -1,0 +1,141 @@
+{
+  "negotiations_url": null,
+  "accept_kids": false,
+  "accept_handicapped": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "specializations": [
+    {
+      "profarea_name": "Информационные технологии, интернет, телеком",
+      "id": "1.82",
+      "name": "Инженер",
+      "profarea_id": "1"
+    },
+    {
+      "profarea_name": "Информационные технологии, интернет, телеком",
+      "id": "1.117",
+      "name": "Тестирование",
+      "profarea_id": "1"
+    }
+  ],
+  "employer": {
+    "trusted": true,
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/397854.jpeg",
+      "original": "https://hhcdn.ru/employer-logo-original/216739.jpg",
+      "90": "https://hhcdn.ru/employer-logo/324997.jpeg"
+    },
+    "url": "https://api.hh.ru/employers/67612",
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=67612",
+    "id": "67612",
+    "name": "Файтексорс Санкт-Петербург",
+    "alternate_url": "https://hh.ru/employer/67612"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "alternate_url": "https://hh.ru/vacancy/27640586",
+  "contacts": null,
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "archived": false,
+  "test": null,
+  "premium": false,
+  "code": null,
+  "created_at": "2018-10-28T15:21:24+0300",
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "relations": [],
+  "description": "<p>Java Developer (финансовые приложения, включая торговлю криптовалютами с использованием blockchain/smart-contract технологий etc)<br /><br />Компании Fitechsource SPB требуются Java разработчики, знакомые с актуальным набором современных Java server-side технологий<br /><br />Основное направление деятельности компании - написание приложений, использующих весь стек современных финансовых технологий (FIX, работа с криптовалютами такими как bitcoin/ethereum и т.д.)<br /><br />Требования:<br /><br />Отличное знание Java.<br />Способность и желание изучать бизнес логику финансовых приложений наравне с изучением новых технологий.<br />Способность и желание общаться с коллегами по рабочим вопросам.<br /><br />Задачи<br />Участие в написании программных продуктов в финансовой сфере.<br />Организация процессов автоматического тестирования server-side (не UI)<br />Создание frameworks для поддержки систем автоматического тестирования - как в области проверки бизнес логики приложений, так и для организации сложных высоконагруженных и распределенных тестов (failover and performance)<br /><br />Дополнительно:<br />Приветствуется наличие опыта работы с многопоточными приложениями, распределенными и высоконагруженными системами<br />Приветствуется наличие опыта работы с фреймворками (Spring, Hibernate, Ignite, Hazelcast etc)<br />Опыт работы с базами данных (oracle, posrgres, mysql, etc)<br />Понимание методологий разработки, принципов ООП и шаблонов проектирования<br /><br />О компании:<br /><br />Компания Fitechsource участвует в разработке крупных проектов в финансовой сфере (японский и американский рынки), разрабатывает и поддерживает собственные middleware продукты в области финансовых приложений.<br /><br />Условия:<br /><br />Обеспечиваем лучшие условия для профессионального роста.<br />Заинтересованным - возможность переезда и работы в канадском офисе, позднее - в американском офисе (Силиконовая Долина).<br />Оформление по ТЗ РФ, медицинская страховка (ДМС), премии.<br />Интересная работа в молодой, дружной, высокопрофессиональной команде.<br /><br />Ключевые навыки<br />Java middleware server side SQL blockchain java frameworks, smart-contract</p>",
+  "name": "Junior / middle java developer",
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "has_test": false,
+  "branded_description": null,
+  "response_letter_required": false,
+  "hidden": false,
+  "suitable_resumes_url": null,
+  "allow_messages": true,
+  "driver_license_types": [],
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "blockchain"
+    },
+    {
+      "name": "serverside"
+    },
+    {
+      "name": "middleware"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "java frameworks"
+    },
+    {
+      "name": "smart-contract"
+    }
+  ],
+  "quick_responses_allowed": false,
+  "accept_incomplete_resumes": false,
+  "salary": {
+    "currency": "RUR",
+    "from": 80000,
+    "gross": true,
+    "to": 150000
+  },
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "site": {
+    "id": "hh",
+    "name": "hh.ru"
+  },
+  "address": {
+    "street": "набережная Чёрной речки",
+    "building": "41Б",
+    "metro": {
+      "lng": 30.300833,
+      "lat": 59.985455,
+      "line_id": "15",
+      "line_name": "Московско-Петроградская",
+      "station_name": "Чёрная речка",
+      "station_id": "15.214"
+    },
+    "lng": 30.310119,
+    "description": null,
+    "raw": null,
+    "metro_stations": [
+      {
+        "lng": 30.300833,
+        "lat": 59.985455,
+        "line_id": "15",
+        "line_name": "Московско-Петроградская",
+        "station_name": "Чёрная речка",
+        "station_id": "15.214"
+      }
+    ],
+    "lat": 59.985818,
+    "city": "Санкт-Петербург"
+  },
+  "published_at": "2018-10-28T15:21:24+0300",
+  "id": "27640586",
+  "department": null,
+  "response_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=27640586"
+}
