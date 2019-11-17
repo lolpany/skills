@@ -2,12 +2,12 @@ package lol.lolpany;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import jdk.incubator.http.HttpClient;
-import jdk.incubator.http.HttpRequest;
-import jdk.incubator.http.HttpResponse;
 import lol.lolpany.skills.hh.vacancies.Example;
 
 import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 import java.time.Duration;
 import java.util.concurrent.atomic.AtomicBoolean;
 
@@ -23,7 +23,7 @@ public class Skills {
 
             HttpClient client = HttpClient.newBuilder()
                     .version(HttpClient.Version.HTTP_2)
-                    .followRedirects(HttpClient.Redirect.SAME_PROTOCOL)
+                    .followRedirects(HttpClient.Redirect.NORMAL)
                     .build();
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(URI.create(
@@ -32,7 +32,7 @@ public class Skills {
 //                    .header("Cookie", COOKIE)
                     .build();
 
-            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandler.asString());
+            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
             Example vacancies = gson.fromJson(response.body(), Example.class);
             i++;
 
