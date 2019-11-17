@@ -1,4 +1,4 @@
-package lol.lolpany;
+package lol.lolpany.skills;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

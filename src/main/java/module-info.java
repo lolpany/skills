@@ -1,4 +1,4 @@
-module trends {
+module skills {
     requires java.net.http;
     requires gson;
     requires java.sql;
