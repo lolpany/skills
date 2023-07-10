@@ -26,7 +26,7 @@ public class Skills {
 
         AtomicBoolean isOn = new AtomicBoolean(true);
 
-        String[] skills = gson.fromJson(new FileReader("R:\\skills\\src\\main\\resources\\skill.json"), String[].class);
+        String[] skills = gson.fromJson(new FileReader("C:\\all\\projects\\skills\\src\\main\\resources\\skill.json"), String[].class);
 
         HttpClient client = HttpClient.newBuilder()
                 .version(HttpClient.Version.HTTP_2)
